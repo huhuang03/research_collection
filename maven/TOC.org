@@ -1,0 +1,4 @@
+* maven plugin with out define phase
+And use it as with not speicfiy phase, what's will happen.
+
+After research, nothing will execute.

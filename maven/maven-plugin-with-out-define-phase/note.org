@@ -1,0 +1,1 @@
+mvn com.th.research:research-empty-pharse-maven-plugin:1.0.0:sayHi can execute the goal
